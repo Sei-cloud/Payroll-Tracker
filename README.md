@@ -6,3 +6,4 @@
 ![Payroll-Tracker](./Assets/Payroll.png)
 
 Github URL: https://github.com/Sei-cloud/Payroll-Tracker
+Deployed URL: https://sei-cloud.github.io/Payroll-Tracker/Develop
